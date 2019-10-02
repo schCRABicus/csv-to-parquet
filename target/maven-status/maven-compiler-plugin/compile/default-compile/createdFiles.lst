@@ -1,0 +1,4 @@
+com/epam/bigdata/training/StringArrayWritable.class
+com/epam/bigdata/training/Csv2Parquet.class
+com/epam/bigdata/training/CsvWriteSupport.class
+com/epam/bigdata/training/CsvRow2ParquetMapper.class

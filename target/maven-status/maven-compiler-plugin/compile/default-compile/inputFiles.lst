@@ -1,0 +1,4 @@
+/mnt/disk-d/IdeaWorkspace/csv-to-parquet-conversion/src/main/java/com/epam/bigdata/training/StringArrayWritable.java
+/mnt/disk-d/IdeaWorkspace/csv-to-parquet-conversion/src/main/java/com/epam/bigdata/training/Csv2Parquet.java
+/mnt/disk-d/IdeaWorkspace/csv-to-parquet-conversion/src/main/java/com/epam/bigdata/training/CsvWriteSupport.java
+/mnt/disk-d/IdeaWorkspace/csv-to-parquet-conversion/src/main/java/com/epam/bigdata/training/CsvRow2ParquetMapper.java
