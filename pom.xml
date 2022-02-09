@@ -14,7 +14,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
 
-        <hadoop.version>3.1.1</hadoop.version>
+        <hadoop.version>3.1.4</hadoop.version>
         <parquet.version>1.10.0</parquet.version>
 
         <junit.version>4.12</junit.version>
